@@ -16,7 +16,6 @@ The following **required** functionality is complete:
 
 
 
-<img src='https://imgur.com/LGKTzWP' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
