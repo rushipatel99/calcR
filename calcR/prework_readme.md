@@ -15,7 +15,7 @@ The following **required** functionality is complete:
 
 
 
-
+GIF: https://imgur.com/LGKTzWP
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
